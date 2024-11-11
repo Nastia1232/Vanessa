@@ -1,0 +1,45 @@
+
+                                   ADD
+                            =================
+
+Please visit the Vanessa-ADD web site for more information:
+
+  * https://github.com/vanessa-opensource/add
+
+Copyright 2020 Vanessa-OpenSource
+
+The Vanessa-Automation-Driven-Development Project licenses this file to you under the Mozilla Public License,
+version 2.0 (the "License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at:
+
+   license/LICENSE.txt
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
+
+Also, please refer to each LICENSE.<component>.txt file, which is located in
+the 'license' directory of the distribution file, for the license terms of the
+components that this product depends on.
+
+-------------------------------------------------------------------------------
+
+This product contains a modified portion of 'Vanessa-Behavior', a open source
+testing framework for 1C, which can be obtained at:
+
+  * LICENSE:
+    * license/LICENSE.vanessa-behavior.txt (BSD-3-Clause)
+  * HOMEPAGE:
+    * https://github.com/vanessa-opensource/vanessa-behavior
+
+-------------------------------------------------------------------------------
+
+This product contains a modified portion of 'xUnitFor1C', a open source
+testing framework for 1C, which can be obtained at:
+
+  * LICENSE:
+    * license/LICENSE.xunitfor1c.txt (Apache License 2.0)
+  * HOMEPAGE:
+    * https://github.com/xDrivenDevelopment/xUnitFor1C
